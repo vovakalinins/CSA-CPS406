@@ -6,3 +6,8 @@ Sprint Features Implemented:
  🔲 Coordinator can view applications
  🔲 Accept/reject applicants
  🔲 Update application status
+ 🔲 Final Acceptance Feature
+ 🔲 PDF report upload
+ 🔲 Employer Evaluations
+ 🔲 Log in (Coordinator/Students/Employer)
+ 
